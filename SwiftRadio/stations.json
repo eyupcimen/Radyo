@@ -1,0 +1,43 @@
+{
+    "station":
+    [
+     {
+     "name": "Best Fm",
+     "streamURL": "http://46.20.7.125/",
+     "imageURL": "http://www.emo.org.tr/resimler/bizden//57323_17_19_43.jpg",
+     "desc": "Best Fm",
+     "longDesc": "Türkiye’nin ilk özel radyo kanallarından biri olan Best FM, 5 Şubat 1993 tarihinde Ajda Pekkan'ın 'Kimler geldi, kimler geçti' şarkısıyla yayın hayatına başladı.Best FM, Bağımsız, dürüst ve güvenilir habercilik anlayışıyla, seçkin programcılarıyla, yayın ilkeleri ve teknolojik donanımıyla, Türkiye’nin en çok dinlenen ulusal radyoları arasında ilk sıralarda yerini aldı. Bugüne kadar yayın hayatında dinleyicileriyle samimi bir iletişim kuran Best FM, zamanla yayın yaptığı her yerde toplumun sesi oldu. Katıldığı etkinlikler, sosyal sorumluluk projeleri, kampanyalar, paneller ve organizasyonlar ile Türkiye’nin lider radyosu olmuştur. Düşünen, tarafsız ve cesur radyo kimliği ile daima kulaklarınızda olacaktır!"
+     
+     
+     },
+     {
+     "name": "Alem Fm",
+     "streamURL": "http://46.20.7.102/",
+     "imageURL": "http://www.turkavizyon.com/uploads/images/alem-fm-89_2-logo.jpg",
+     "desc": "Alem Fm",
+     "longDesc": "Türk pop müziğinde öncü bir rol üstlenen ve geniş bir kitleye hitap eden ALEM FM’de program içerikleri spordan siyasete, ekonomiden sanat ve magazine kadar uzanan oldukça geniş bir yelpazede çeşitlilik göstermektedir. Yüksek teknolojiye sahip ekipmanı ve olay yerinden yayın yapma olanağı sağlayan canlı yayın araçlarıyla ALEM FM, merkez stüdyo koşullarını dünyanın her yerinde oluşturarak dünyanın pek çok farklı ülkesinden canlı yayınlar gerçekleştirmektedir. ALEM FM, aynı zamanda Digiturk, uydu alıcısı, www.alemfm.com internet sitesi ve mobil cihaz uygulamaları üzerinden de dinleyicileriyle buluşmaktadır. A-Rıza Show, İrfan Aslanhan’la Radyo Makinası, Adem Metan Show ve Füsun Tuncer’le Müzikvizyon gibi birbirinden dinamik, eğlenceli ve samimi programların adresi haline gelen ALEM FM, 22 yıllık yayın hayatı boyunca gerek dinleyiciler gerekse bağımsız dernek ve kuruluşlar tarafından sayısız ödüle layık görülmüştür."
+     },
+     {
+     "name": "Pal Fm",
+     "streamURL": "http://77.223.136.16:9920/",
+     "imageURL": "http://www.canliradyodinlemek.com/uploads/images/xPal_fm-LOGO.jpg.pagespeed.ic.Iyl2MInvax.jpg",
+     "desc": "Pal Fm",
+     "longDesc": "Müziğin Türkçesi"
+     },
+     {
+     "name": "Power Türk Fm",
+     "streamURL": "http://37.75.11.179/power/PowerTurk_aac_64_tunein/icecast.audio?",
+     "imageURL": "http://www.powerturk.com/i/defaultAlbumArt.jpg",
+     "desc": "",
+     "longDesc": ""
+     },
+     {
+     "name": "Joy Türk",
+     "streamURL": "http://7919.live.streamtheworld.com:3690/JOY_TURK_SC",
+     "imageURL": "http://www.medyaradar.com/newsFiles/2014/10/27/130127/130127.jpg",
+     "desc": "",
+     "longDesc": ""
+     }
+     
+    ]
+}
